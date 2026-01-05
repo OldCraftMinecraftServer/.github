@@ -81,5 +81,3 @@ cd OneAuth && mvn clean package
 > © 2026 Miron (@mironoouv) и сообщество OldCraft
 ```
 
----
-

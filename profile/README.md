@@ -27,7 +27,6 @@
 
 1. Установите **Paper 1.21+** (рекомендуется последняя версия).
 2. Скачайте релизные JAR-файлы из нужных репозиториев:
-   - [OneLife-API](https://github.com/OldCraft/OneLifeAPI)
    - [OneLife-server](https://github.com/OldCraft/OneLifeServer)
    - [OneAuth](https://github.com/OldCraft/OneAuth)
 3. Поместите их в папку `plugins/` вашего сервера.

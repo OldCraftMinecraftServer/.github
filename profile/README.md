@@ -12,7 +12,6 @@
 |--------|----------|--------|
 | **[OneAuth](https://github.com/OldCraft/OneAuth)** | Система авторизации и регистрации, интеграция с OneLife-server. | ✅ Активная разработка |
 | **[OneLife-server](https://github.com/OldCraft/OneLifeServer)** | Ядро серверной логики. | ✅ Активная разработка |
-| **[OneLife-API](https://github.com/OldCraft/OneLifeAPI)** | Общий API для взаимодействия между плагинами. Позволяет безопасно обмениваться данными без жёсткой привязки. | ✅ Активная разработка |
 
 ---
 

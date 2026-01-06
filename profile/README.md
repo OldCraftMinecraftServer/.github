@@ -44,8 +44,8 @@
 
 ### Как собрать
 ```bash
-git clone https://github.com/OldCraft/OneLife-API.git
-cd OneLife-API && mvn clean install
+git clone https://github.com/OldCraft/OneLifeServer.git
+cd OneLifeServer && mvn clean install
 
 git clone https://github.com/OldCraft/OneAuth.git
 cd OneAuth && mvn clean package
